@@ -1,0 +1,17 @@
+.logo {
+    height: 200px;
+    text-align: left;
+}
+
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.mainContent {
+    text-align: center;
+}
+
+.sampleImage {
+    height: 300px;
+}
